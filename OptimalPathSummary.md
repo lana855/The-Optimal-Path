@@ -10,10 +10,10 @@ Concept & Rules
 are surrounded by walls ‘#’.
 >	The game is about to find a path that connects 
 two points (nodes) in the grid so that the sum of the edge on the path is the smallest possible number.
->	The player can move in any direction (up, down, 
+>	The algorithm can move in any direction (up, down, 
 left, right and diagonal) within squares not surrounded by walls.
->	The player cannot cross walls.
->	The game ends when the player reaches the end point.
+>	The algorithm cannot cross walls.
+>	The game ends when the algorithm reaches the end point.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
